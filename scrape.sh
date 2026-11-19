@@ -1,2 +1,2 @@
 #!/bin/bash
-# ./download.sh 'https://www.example.com/'
+./download.sh 'https://goringgap.co.uk'
