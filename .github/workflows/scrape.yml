@@ -1,6 +1,28 @@
+name: Scrape
+
 on:
   push:
   workflow_dispatch:
   schedule:
-  # Runs every hour at 42 minutes past the hour
-  - cron: '42 * * * *'
+    - cron: '42 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    if: ${{ !github.event.repository.is_template }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run the scraper
+        run: ./scrape.sh
+      - name: Commit and push
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@://github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "${timestamp}" || exit 0
+          git pull --rebase
+          git push
