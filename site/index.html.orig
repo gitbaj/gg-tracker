@@ -84,11 +84,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='elementor-post-19-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/post-19.css?ver=1795585541' media='all' />
 <link rel='stylesheet' id='widget-heading-css' href='https://www.goringgap.co.uk/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.4.2' media='all' />
 <link rel='stylesheet' id='widget-image-css' href='https://www.goringgap.co.uk/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.4.2' media='all' />
-<link rel='stylesheet' id='elementor-post-15-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/post-15.css?ver=1795641791' media='all' />
+<link rel='stylesheet' id='elementor-post-15-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/post-15.css?ver=1795770271' media='all' />
 <link rel='stylesheet' id='base-desktop-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/base-desktop.css?ver=6b067605c3089' media='all' />
-<link rel='stylesheet' id='local-15-frontend-desktop-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/local-15-frontend-desktop.css?ver=6b0751bf7ef4b' media='all' />
+<link rel='stylesheet' id='local-15-frontend-desktop-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/local-15-frontend-desktop.css?ver=6b09479f302ed' media='all' />
 <link rel='stylesheet' id='base-mobile-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/base-mobile.css?ver=6b067605c3089' media='(max-width:767px)' />
-<link rel='stylesheet' id='local-15-frontend-mobile-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/local-15-frontend-mobile.css?ver=6b0751bf7ef4b' media='(max-width:767px)' />
+<link rel='stylesheet' id='local-15-frontend-mobile-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/css/local-15-frontend-mobile.css?ver=6b09479f302ed' media='(max-width:767px)' />
 <link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742283959' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://www.goringgap.co.uk/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742284226' media='all' />
 
@@ -251,12 +251,25 @@ class="post-15 page type-page status-publish ast-article-single" id="post-15" it
 				</div>
 		
 </div>
+<div class="elementor-element elementor-element-87aab5b e-con e-atomic-element e-flexbox-base e-default-div e-5f2aadf " data-id="87aab5b" data-element_type="e-flexbox" data-e-type="e-flexbox" data-interaction-id="87aab5b">
+    <div class="elementor-element elementor-element-8a3b71b e-flex e-con-boxed e-con e-parent" data-id="8a3b71b" data-element_type="container" data-e-type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-76822fe elementor-widget elementor-widget-image" data-id="76822fe" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Sunset.jpg" target="_blank">
+							<img fetchpriority="high" decoding="async" width="768" height="576" src="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Sunset-768x576.jpg" class="attachment-medium_large size-medium_large wp-image-4984" alt="" srcset="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Sunset-768x576.jpg 768w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Sunset-300x225.jpg 300w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Sunset-1024x768.jpg 1024w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Sunset.jpg 1271w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+															</div>
+				</div>
+					</div>
+				</div>
+		
+</div>
 <div class="elementor-element elementor-element-9a9b630 e-con e-atomic-element e-flexbox-base e-default-div e-967c373 " data-id="9a9b630" data-element_type="e-flexbox" data-e-type="e-flexbox" data-interaction-id="9a9b630">
     <div class="elementor-element elementor-element-395dd2a e-flex e-con-boxed e-con e-parent" data-id="395dd2a" data-element_type="container" data-e-type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-d992b03 elementor-widget elementor-widget-text-editor" data-id="d992b03" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Our vision for Goring Gap has always been to create a welcoming green social space where families and visitors can come together, spend time outdoors, appreciate our beautiful coastline and enjoy locally made and sourced products.</p><p>We have invested considerable time, energy and resources into creating a sustainable community space powered by renewable energy that promotes recreation, wellbeing and biodiversity while supporting local Sussex businesses.</p><p>Sadly, a small number of local residents and councillors have actively campaigned to prevent this vision from becoming a reality. Worthing Borough Council’s Planning Committee voted unanimously to oppose our appeal, with Green Party councillor Claire Hunt among those opposing our proposals. Despite this opposition, we remain committed to pursuing our plans impartially through the Planning Inspectorate.</p><p>Should the land ultimately be used for anything other than leisure, the public planning record will clearly demonstrate the considerable efforts we made to deliver a green community space for the benefit of Worthing and its visitors, together with the opposition we encountered trying to achieve that vision.</p><p><strong>❤️ </strong>Worthing! World champions live here ® visionaries work here.</p>								</div>
+									<p>Our vision for Goring Gap has always been to create a welcoming green social space where families and visitors can come together, spend time outdoors, appreciate our beautiful coastline, our amazing sunsets and enjoy locally made and sourced products.</p><p>We have invested considerable time, energy and resources into creating a sustainable community space powered by renewable energy that promotes recreation, wellbeing and biodiversity while supporting local Sussex businesses.</p><p>Sadly, a small number of local residents and councillors have actively <a href="https://www.goringgap.co.uk/wp-content/uploads/2026/11/IMG_9588-1-scaled.jpg" target="_blank" rel="noopener">campaigned</a> to prevent this vision from becoming a reality. Worthing Borough Council’s Planning Committee voted unanimously to oppose our appeal, with Green Party councillor <a href="https://democracy.adur-worthing.gov.uk/mgUserInfo.aspx?UID=469" target="_blank" rel="noopener">Claire Hunt</a> among those opposing our proposals. Despite this opposition, we remain committed to pursuing our plans impartially through the Planning Inspectorate.</p><p>Should the land ultimately be used for anything other than leisure, the public planning record will clearly demonstrate the considerable efforts we made to deliver a green community space for the benefit of Worthing and its visitors, together with the opposition we encountered trying to achieve that vision.</p><p><strong>❤️ </strong>Worthing! World champions live here ® visionaries work here.</p>								</div>
 				</div>
 					</div>
 				</div>
@@ -301,7 +314,7 @@ class="post-15 page type-page status-publish ast-article-single" id="post-15" it
 				<div class="elementor-element elementor-element-b77f58b elementor-widget elementor-widget-image" data-id="b77f58b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-scaled.jpg" target="_blank">
-							<img fetchpriority="high" decoding="async" width="768" height="576" src="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-768x576.jpg" class="attachment-medium_large size-medium_large wp-image-4868" alt="" srcset="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-768x576.jpg 768w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-300x225.jpg 300w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-1024x768.jpg 1024w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-1536x1152.jpg 1536w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-2048x1536.jpg 2048w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+							<img decoding="async" width="768" height="576" src="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-768x576.jpg" class="attachment-medium_large size-medium_large wp-image-4868" alt="" srcset="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-768x576.jpg 768w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-300x225.jpg 300w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-1024x768.jpg 1024w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-1536x1152.jpg 1536w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-2048x1536.jpg 2048w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -333,7 +346,7 @@ class="post-15 page type-page status-publish ast-article-single" id="post-15" it
     		<div class="elementor-element elementor-element-d97d29d elementor-widget elementor-widget-image" data-id="d97d29d" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-scaled.jpg" target="_blank">
-							<img decoding="async" width="300" height="225" src="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-300x225.jpg" class="attachment-medium size-medium wp-image-4870" alt="" srcset="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-300x225.jpg 300w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-1024x768.jpg 1024w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-768x576.jpg 768w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-1536x1152.jpg 1536w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-2048x1536.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+							<img loading="lazy" decoding="async" width="300" height="225" src="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-300x225.jpg" class="attachment-medium size-medium wp-image-4870" alt="" srcset="https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-300x225.jpg 300w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-1024x768.jpg 1024w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-768x576.jpg 768w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-1536x1152.jpg 1536w, https://www.goringgap.co.uk/wp-content/uploads/2026/11/Active-3-2048x1536.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
 															</div>
 				</div>
 		
